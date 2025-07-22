@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+venv/
+C:\Users\HP\OneDrive\Documents\Multi-Agent Project\MULTI_AI_AGENT.egg-info
+logs/
